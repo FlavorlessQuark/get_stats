@@ -1,0 +1,84 @@
+Background = ["Volcano", "Glacier", "Night glacier", "Urban day", "Urban night", "Urban jungle", "Moon", "Laboratory", "Portal"]
+bg_weights = [20, 15, 5, 20, 20, 15, 10, 10, 5]
+
+Frame = ["Standard", "Fade", "Black"]
+frame_weights = [65, 15, 20]
+
+m_Skin color = ["Artic", "White", "Black", "Green", "Orange", "Purple"]
+m_skin_weights = [10, 35, 25, 20, 5, 5]
+
+m_Eyes = ["Blue", "Alien", "Red", "Brown", "Aqua"]
+m_eyes_weights = [30, 20, 15, 15, 20]
+
+m_Underwear = ["Blue", "Green", "Red", "Aqua", "White", "Black"]
+m_underwear_weights = [15, 15, 20, 20, 15, 15]
+
+m_Hat/Hair = ["None", "Short blue hair", "Short white hair", "Short brown hair","Short blond hair", "Short alien hair", "Short black hair", "Long blond hair","Long black hair", "Red mohawk", "Green mohawk", "Teal mohawk","Blue box cut", "Black box cut", "Blond box cut", "Blue Slick hair","Brown slick hair", "White slick hair", "Blond slick hair", "Black slick hair","Alien head", "Alien head +", "Alien Head ++", "Warmask", "Gorilla", "Gorilla +", "Ice hair", "Red helmet", "Silver helmet", "Yellow helmet", "Matador", "Metal mask", "Viking", "Rainbow viking", "Blue helmet", "Pizza connoisseur", "Flaming", "Englassed"]
+m_hair_weights = [3, 2, 2, 3, 5, 2, 3, 4, 4, 2, 2, 2, 3, 3, 3, 5, 5, 5, 5 , 5, 3, 2, 1, 3, 3, 2, 3, 2.5, 2, 2, 2.5, 0.5, 0.5, 1, 0.5, 0.8, 0.7, 2]
+
+m_Jumpsuit = ["None", "Block Duelers", "Teal-yellow", "Yellow-Teal", "Ice", "Fire", "Engulfed fire", "Violence", "Violence +", "Babylons", "Carbon", "Ox Bull matador", "Striped gold", "Platinum", "Monke"]
+m_jumpsuit_weights = [20, 8, 10, 10, 5, 10, 10, 5, 4, 3, 5, 5, 3, 2, 1]
+
+m_Gloves/gadgets = ["None", "White-yellow", "White-teal", "Teal-yellow", "Yellow-blue", "Alien", "Black"]
+m_gloves_weights = [25, 10, 15, 15, 15, 5, 15]
+
+m_Boots/leg gadgets = ["None", "White-yellow", "White-teal", "Teal-yellow", "Yellow-blue", "Alien", "Black", "Red power", "Teal power", "Electra power", "Blue alien", "Fiery dress shoes", "Viking", "Rainbow viking"]
+m_boots_weights = [10, 10, 15, 10, 10, 7, 5, 5, 5, 5, 5, 5, 3, 5]
+
+m_Back/Shoulders = ["None", "White cape", "Blue cape", "Yellow cape", "Red cape", "Alien cape", "Black cape", "Black-red glider", "Teal-grey glider", "Black-yellow glider", "Alien tail", "Matador set", "Ice chestpiece","Purple cape", "Viking hide", "TGH Power staff", "Viking hide", "Rainbow viking"]
+m_cape_weights = [20, 9, 9, 5, 5, 7.5, 10, 5, 5, 2.5, 2.5, 5, 2.5, 3, 3, 3, 2, 1]
+
+m_Head accessory = ["None", "Blue goggles", "Golden mask", "Teal mask", "Red mask"]
+m_face_weights = [70, 5, 5, 15, 5]
+
+m_Left hand item = ["None", "Alien plasma", "Blue fire", "Yellow fire", "Red fire", "Magnet", "Magnet with Bitcoin", "Steel claws", "Crypto cannon", "Crypto cannon firing", "Yellow whip", "Green whip", "Ether projector", "Blue lightning", "Sonic wrist blaster", "Fire ring", "Ice ring", "Dagger", "Chain of Ether",  "Sonic blaster"]
+m_left_item_weights = [15, 4, 4, 4, 5, 6, 4, 6, 7, 6, 5, 5, 3, 5, 2, 4, 5, 4, 2, 4]
+
+m_Right hand item = ["None", "Alien plasma", "Blue fire", "Yellow fire", "Red fire", "Cardano shield", "Green candles", "Chainlink shield", "Trident", "Ether tentacle", "0x Bull shield", "Magnet", "Magnet with Bitcoin", "Crypto revolution shield", "Blaster", "Banana blaster", "Flail", "Sonic blaster", "Blue sickle", "Block Duelers flag", "WAGMI shield"]
+m_right_item_weights = [15, 6, 6, 6, 4, 6, 6, 7, 6, 5, 4, 0, 0, 4, 5, 3, 3, 6, 3, 2, 3]
+
+m_Belt = ["None", "White-yellow", "White-teal", "Teal-yellow", "Yellow-blue", "Alien", "Black-Aqua", "Red power", "Blue power", "Golden", "Alien power +", "Alien power"]
+m_belt_weights = [20, 15, 10, 10, 10, 10, 5, 5, 3, 3, 2, 2]
+
+m_Armor = ["None", "Red-black", "Blue", "Brown-black"]
+m_armor_weights = [80, 10, 5, 5]
+
+f_Skin color = ["Artic", "White", "Black", "Green", "Orange", "Purple"]
+f_skin_weights = [10, 35, 25, 20, 5, 5]
+
+f_Eyes = ["Blue", "Alien", "Red", "Brown", "Aqua", "Yellow", "Black"]
+f_eyes_weights = [20, 20, 15, 15, 15, 10, 5]
+
+f_Underwear = ["Blue", "Green", "Red", "Aqua", "White", "Black"]
+f_underwear_weights = [15, 15, 20, 20, 15, 15]
+
+f_Hat/Hair = ["None", "Blue slick hair", "Blonde slick hair", "Red slick hair", "Aqua slick hair", "Black slick hair", "Blue afro", "Blonde afro", "Red afro", "Aqua afro", "Black afro", "Blue afro crown", "Blonde afro crown", "Red afro crown",  "Aqua afro crown", "Black afro crown", "Electra", "Blonde flowing hair", "Long orang hair", "Green mohawk", "Purpre Skrillex hairdo", "Tiger helmet", "Ant helmet", "Dragon hair", "Pink helmet", "Monero revolution helmet", "Binance mask", "Flaming"]
+f_hair_weights = [5, 8, 8, 9, 8, 5, 5, 2, 2, 2, 3, 2, 2, 4, 4, 4, 4, 2, 2, 4, 3, 2, 2, 2, 3, 1, 1, 1]
+
+f_Jumpsuit = ["None", "Block Duelers", "Esoteric", "Candy", "Ice","Fire", "Engulfed fire", "Teal-yellow", "Yellow-teal", "Blue metalica", "Purple metalica", "Purple electra metalica"]
+f_jumpsuit_weights = [20, 3, 2, 2, 2, 12, 5, 15, 15, 10, 7, 7]
+
+f_Gloves/gadgets = ["None", "White-yellow", "White-teal", "Teal-yellow", "Yellow-blue", "Alien", "Black"]
+f_gloves_weights = [25, 10, 15, 15, 15, 5, 15]
+
+f_Boots/leg gadgets = ["None", "White-yellow", "White-teal", "Teal-yellow", "Yellow-blue", "Alien", "Black", "Golden armored", "Alien armored", "Black-blue armored"]
+f_boots_weights = [10, 10, 20, 15, 15, 5, 10, 5, 5 ,5,]
+
+f_Back/Shoulders = ["None", "White cape", "Blue cape", "Yellow cape", "Red cape", "Alien cape", "Black cape", "Yellow sticks", "Purple sitcks", "Red sticks", "Green sticks", "Black sticks", "Chonker", "Claws", "Green dragon cape", "Arm bazooka"]
+f_cape_weights = [20, 10, 10, 5, 5, 10, 10, 5, 5, 5, 2.5, 2.5, 2, 2, 2, 2.5]
+
+f_Head accessory = ["None", "Blue goggles", "Veil", "Alien mask", "Blue mask", "White mask", "Red mask", "Teal mask", "Golden mask"]
+f_face_weights = [40, 10, 5, 5, 5, 10, 5, 10, 10]
+
+f_Left hand item = ["None", "Alien plasma", "Blue fire", "Yellow fire", "Red fire", "Bitcoins", "Trident", "Sabre", "Lightning", "Lightning storm", "Blue Sickle", "Bullish bat",  "Blue lightning", "Lobster hand", "TGH power staff", "Dragon ring",  "Sonic blaster", "Pink power staff", "Green staff"]
+f_left_item_weights = [10, 5, 5, 7, 8, 8, 5, 7, 8, 5, 5, 4, 3, 2, 5, 5, 4, 3, 1]
+
+f_Right hand item = ["None", "Cardano shield", "Alien plasma", "Blue fire", "Yellow fire", "Red fire", "Green candles", "Chainlink shield", "Blue spear", "Alien whip", "Purple whip", "Red whip", "Pink ray gun", "White ray gun", "Blue sickle", "Blue lightning", "0x bull shield",  "Crypto revolution shield", "Wireframe shield", "Energy blade", "Crab hand", "Energy broadsword" , "Flaming energy broadsword", "Sonic blaster"]
+f_right_item_weights = [10, 5, 3, 3, 3, 3, 5, 4, 6, 7, 5, 5, 5, 5, 7, 4, 4, 3, 2, 4, 2, 2, 1, 2]
+
+f_Belt = ["None", "White-yellow", "White-teal", "Teal-yellow", "Yellow-blue", "Alien", "Black-Aqua", "Utility"]
+f_belt_weights = [25, 15, 15, 10, 15, 10, 15, 5]
+
+f_Armor = ["None", "Golden", "Alien", "Black-blue"]
+f_armor_weights = [80, 5, 5, 10]
+
